@@ -1,0 +1,23 @@
+.body_background
+{
+background-image: url("col.jpg");
+}
+
+body
+{
+    text-align: center;
+    background-image: url("col.jpg");
+}
+
+h1
+{
+    color: azure;
+}
+
+#lienzo
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
